@@ -2,8 +2,12 @@
 
 # Sakura Doll SMD Soldering Kit
 
-![Sakura Top](https://github.com/nwmaker/sakuradoll/blob/master/design/sakuradoll-top.png)
+![Sakura Top](https://github.com/nwmaker/sakuradoll/blob/master/docs/sakuradoll-top.png)
 
-![Sakura Bottom](https://github.com/nwmaker/sakuradoll/blob/master/design/sakuradoll-bottom.png)
+![Sakura Bottom](https://github.com/nwmaker/sakuradoll/blob/master/docs/sakuradoll-bottom.png)
+
+# [BOM](https://github.com/nwmaker/sakuradoll/blob/master/docs/BOM.md)
+
+# [Gerbers](https://github.com/nwmaker/sakuradoll/blob/master/gerbers/)
 
 
