@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "conductor":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "3.6mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "4.0mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "\uお誕生日おめでとうございます"
+        }
+      ]
+    }
+  }  
+}
