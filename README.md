@@ -2,6 +2,8 @@
 
 # Sakura Doll SMD Soldering Kit
 
+Sakura Doll is designed with [PCBmode](https://github.com/boldport/pcbmode)
+
 ![Sakura Top](https://github.com/nwmaker/sakuradoll/blob/master/docs/sakuradoll-top.png)
 
 ![Sakura Bottom](https://github.com/nwmaker/sakuradoll/blob/master/docs/sakuradoll-bottom.png)
